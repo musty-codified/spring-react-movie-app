@@ -1,0 +1,9 @@
+.logbtn{
+    background-color: transparent;
+    margin:5px;
+    padding: 5px;
+    width: 7%;
+    color: cadetblue;
+    border: 1px solid rgb(116, 191, 194);
+    border-radius: 5px;
+}
